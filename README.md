@@ -23,7 +23,7 @@
     box-shadow: 0 2px 5px rgba(0,0,0,0.05);
   }
  .logo {
-  max-width: 40px;  /* Уменьшение размера логотипа */
+  max-width: 20px;  /* Уменьшение размера логотипа */
   height: auto;
   margin-right: 15px;
   border-radius: 50%;  /* Логотип остается круглым */
