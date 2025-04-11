@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="ru">
 <head>
   <meta charset="UTF-8" />
@@ -22,12 +22,13 @@
     justify-content: space-between;
     box-shadow: 0 2px 5px rgba(0,0,0,0.05);
   }
-  .logo {
-    max-width: 60px;
-    height: auto;
-    margin-right: 15px;
-    border-radius: 50%; /* Это добавит округлость логотипу */
-  }
+ .logo {
+  max-width: 40px;  /* Уменьшение размера логотипа */
+  height: auto;
+  margin-right: 15px;
+  border-radius: 50%;  /* Логотип остается круглым */
+}
+
   .header-text {
     display: flex;
     flex-direction: column;
